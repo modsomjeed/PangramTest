@@ -1,0 +1,17 @@
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/bin/Debug/netcoreapp2.2/PangramTest.deps.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/bin/Debug/netcoreapp2.2/PangramTest.runtimeconfig.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/bin/Debug/netcoreapp2.2/PangramTest.runtimeconfig.dev.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/bin/Debug/netcoreapp2.2/PangramTest.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/bin/Debug/netcoreapp2.2/PangramTest.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/bin/Debug/netcoreapp2.2/Pangram.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/bin/Debug/netcoreapp2.2/Pangram.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/obj/Debug/netcoreapp2.2/PangramTest.csprojAssemblyReference.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/obj/Debug/netcoreapp2.2/PangramTest.csproj.CoreCompileInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/obj/Debug/netcoreapp2.2/PangramTest.AssemblyInfoInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/obj/Debug/netcoreapp2.2/PangramTest.AssemblyInfo.cs
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/obj/Debug/netcoreapp2.2/PangramTest.csproj.CopyComplete
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/obj/Debug/netcoreapp2.2/PangramTest.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/PangramTest/obj/Debug/netcoreapp2.2/PangramTest.pdb

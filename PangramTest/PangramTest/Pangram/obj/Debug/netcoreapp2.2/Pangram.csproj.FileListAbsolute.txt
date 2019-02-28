@@ -1,0 +1,11 @@
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/Pangram/bin/Debug/netcoreapp2.2/Pangram.deps.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/Pangram/bin/Debug/netcoreapp2.2/Pangram.runtimeconfig.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/Pangram/bin/Debug/netcoreapp2.2/Pangram.runtimeconfig.dev.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/Pangram/bin/Debug/netcoreapp2.2/Pangram.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/Pangram/bin/Debug/netcoreapp2.2/Pangram.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/Pangram/obj/Debug/netcoreapp2.2/Pangram.csprojAssemblyReference.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/Pangram/obj/Debug/netcoreapp2.2/Pangram.csproj.CoreCompileInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/Pangram/obj/Debug/netcoreapp2.2/Pangram.AssemblyInfoInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/Pangram/obj/Debug/netcoreapp2.2/Pangram.AssemblyInfo.cs
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/Pangram/obj/Debug/netcoreapp2.2/Pangram.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Pangram/Pangram/obj/Debug/netcoreapp2.2/Pangram.pdb
